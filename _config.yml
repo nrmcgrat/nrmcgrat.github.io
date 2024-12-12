@@ -3,8 +3,7 @@ logo: "/images/Me.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   Email- mcgrath611n@gmail.com
-  <br><br>
-  <br><br>
+
   <a href="https://www.linkedin.com/in/noah-mcgrath-a86091179/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
