@@ -8,7 +8,7 @@ Currently I am a student at Mcihigan tech studying software enginering I graduat
 
 
 ---
-### Projects
+Projects
 
 Data1201 Repository- https://github.com/nrmcgrat/data1201
 ---
